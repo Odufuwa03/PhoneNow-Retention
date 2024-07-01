@@ -1,5 +1,7 @@
 # PhoneNow-Retention
 
+ ![Screenshot (53)](https://github.com/Odufuwa03/PhoneNow-Retention/assets/169449929/fc707962-9d25-4ef8-ae1f-6ff78c95185f)
+
 # Project Overview
 -	The Telecommunications Retention Manager is looking for a thorough solution to enhance customer retention strategies and reduce churn rates.
 -	Analyzed customer retention data to understand how many customers have been retained and their distribution across various parameters.
